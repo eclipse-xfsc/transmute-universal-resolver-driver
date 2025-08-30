@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+deployment/helm/requirements.lock
+deployment/helm/charts
